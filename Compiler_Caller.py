@@ -3,6 +3,7 @@
 
 # The idea of this file is that it will be used to compile files 
 # and run them multiple times with different inputs.
+# Basically I am automating testing and running c++ programs that I have to write for school.
 
 import subprocess
 from subprocess import  Popen, PIPE 
